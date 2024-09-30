@@ -91,12 +91,12 @@ New or updated this week:
 
 ### H5P Admin
 
-- Setup https://h5p.oregonstate.education/oc-201/wp-admin/
+- Setup [OC 201](https://h5p.oregonstate.education/oc-201/wp-admin/) H5P site
 - Troubleshoot Video Interactive Activity for Haley OP course. File support ticket. Come up with workaround
 
 ### IDKB
 
-- wrote HTML Transparency Color Hack – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/html-transparency-color-hack/)
+- wrote [HTML Transparency Color Hack – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/html-transparency-color-hack/)
 - Drafted [Salesforce Course Design Record Guide for Instructional Designers](https://github.com/mundorfd/dm-work-vault/blob/main/Salesforce%20Course%20Design%20Record%20Guide%20for%20Instructional%20Designers.md) and sent to Cyndie for review. We don't currently have this information in the IDKB
 
 ### Internship Program
