@@ -64,13 +64,15 @@ modified: 2024-09-30 11:09
 
 #### BB 345
 
+- sent second request for an intake meeting
+
 #### CS 162
 
 - completed intake, media requests made
 
 #### CS 444
 
-#### CS 561
+- intake meeting scheduled for 10/18 (instructor chose time)
 
 #### EMGT 562
 
@@ -95,17 +97,10 @@ New or updated this week:
 ### IDKB
 
 - wrote HTML Transparency Color Hack – IDKB 🦫](https://idkb.oregonstate.education/knowledge-base/html-transparency-color-hack/)
+- Drafted [Salesforce Course Design Record Guide for Instructional Designers](https://github.com/mundorfd/dm-work-vault/blob/main/Salesforce%20Course%20Design%20Record%20Guide%20for%20Instructional%20Designers.md) and sent to Cyndie for review. We don't currently have this information in the IDKB
 
 ### Internship Program
 
 - Discussion with Dana about the internship project, courses she will shadow on, mentor expectations
 - Created orientation presentation
 - Orientation with Carmen
-
-### Onboarding New IDs
-
-### Sr. ID Responsibilities
-
-### Other
-
-%%add LKAD tag when ready to submit%%
