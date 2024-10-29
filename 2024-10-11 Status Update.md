@@ -3,7 +3,7 @@ aliases:
 tags: 
 title: Status
 created: 2024-10-15 11:10
-modified: 2024-10-15 19:10
+modified: 2024-10-16 9:10
 share: true
 ---
 
@@ -34,8 +34,10 @@ share: true
 - built a demonstration of an embedded interactive Python coding activity: [Compiler Explorer: CE_535_Sandbox](https://canvas.oregonstate.edu/courses/2006318/pages/compiler-explorer?module_item_id=24886388)
 - built template into Canvas for all Overview pages
 - instructors asked for some custom design elements (Monty Python), which I created for them
-![icon_sillywalk.png](./Captains%20Log/Status%20AY25/images/icon_sillywalk.png)
-![banner_home.png](./Captains%20Log/Status%20AY25/images/banner_home.png)
+
+![icon_sillywalk.png](./Captains%20Log/Status%20AY%202024-2025/images/icon_sillywalk.png)
+
+![banner_home.png](./Captains%20Log/Status%20AY%202024-2025/images/banner_home.png)
 
 #### CS 432
 
