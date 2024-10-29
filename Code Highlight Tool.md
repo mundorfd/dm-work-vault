@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 created: 2024-04-15 14:04
-modified: 2024-10-03 11:10
+modified: 2024-10-28T13:17:00-07:00
 share: true
 title: Code Highlight Tool
 ---
@@ -36,7 +36,7 @@ Here are some examples of how the highlighting looks after using the LTI app on 
 
 ## Accessibility
 
-The following themes passed the Accessibility checker integrated into the Rich Content Editor:
+The following themes passed the [accessibility checker integrated into the Canvas Rich Content Editor](https://community.canvaslms.com/t5/Canvas-Basics-Guide/How-do-I-use-the-Accessibility-Checker-in-the-Rich-Content/ta-p/618238):
 
 - A11y-dark
 - A11y-light
@@ -64,7 +64,7 @@ The following themes passed the Accessibility checker integrated into the Rich C
 - XT256
 ![](./Reference/images/code_highlight_3.png)
 
-UDOIT flags all the light ones, and here's why: for some reason, it thinks the background is black. It must have something to do with the way the CSS is written that throws it off.
+UDOIT flags all the light ones, and here's why: for some reason, it thinks the background is black. It must have something to do with how the CSS is written that throws it off.
 
 ![](./Reference/images/code_highlight_5.png)
 
@@ -81,7 +81,7 @@ Here's what I have written in the Salesforce Course Record:
 - [Canvas](./Canvas.md)
 - [Syntax Highlighting](Syntax%20Highlighting.md)
 - [Accessibility](./Accessibility.md)
-- [CSS](CSS.md)
+- [CSS](./CSS.md)
 - [CS](CS.md)
 - [UDOIT](UDOIT.md)
 - [LTI](LTI.md)
