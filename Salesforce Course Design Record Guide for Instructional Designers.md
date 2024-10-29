@@ -4,7 +4,7 @@ tags:
 share: true
 title: Salesforce Course Design Record Guide for Instructional Designers
 created: 2024-09-26 12:09
-modified: 2024-09-30 11:09
+modified: 2024-10-28T11:33:14-07:00
 ---
 
 # Salesforce Course Design Record Guide for Instructional Designers
@@ -60,17 +60,17 @@ IDs must also update any accessibility concerns in the **Development Notes** sec
 ## 5. Tracking and Percentages
 
 - **Build Percentage**: IDs are responsible for updating the build percentage throughout the development. Once the build reaches **95%**, the course can be evaluated for payout. If a course is **not fully built**, do not mark it as 100%—provide an explanation in the notes.
-- **Fund Transfer and Proposal Amount**: IDs should not discuss financial matters with the faculty. Any questions should be directed to AD.
+- **Fund Transfer and Proposal Amount**: IDs should refrain from discussing financial matters with the faculty. Any questions should be directed to AD.
 
 ## 6. Feedback & Ecampus Essentials
 
-Instructional Designers must complete the **Ecampus Essentials Review** within a month of completing the course development. They are encouraged to update during development with relevant information intermittently. The description for each Essential can be found in [this list](https://docs.google.com/spreadsheets/d/1tNey4oMYFYzREqNnO1tHi93mYiU2U5AAgknbXSK-NM0/edit?gid=0#gid=0) _Note detailed information on evaluating each Essential is being captured elsewhere, stay tuned_
+Instructional Designers must complete the **Ecampus Essentials Review** within a month of completing the course development. They are encouraged to update during development with relevant information intermittently. The description for each Essential can be found in [this list](https://docs.google.com/spreadsheets/d/1tNey4oMYFYzREqNnO1tHi93mYiU2U5AAgknbXSK-NM0/edit?gid=0#gid=0). _Note detailed information on evaluating each Essential is being captured elsewhere; stay tuned_.
 
 ## Communication and Project Management
 
 - **Development Notes**: These should be regularly updated with any changes in project status, delivery terms, or developer availability.
 
-Communication should be documented via email and in the Course Design Notes for any changes in delivery schedules, developer assignments, or MOU agreements**.
+Communication should be documented via email and in the Course Design Notes for any changes in delivery schedules, developer assignments, or MOU agreements.
 
 ## Related Ideas
 
