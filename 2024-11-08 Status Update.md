@@ -187,7 +187,3 @@ Inventoried and shared article updates with the team from the past two months
 ### ID Repositories Refresh
 
 - Met with Chris and Ashlee to strategize plans for clarifying mission and cleaning up IDKB, IDD and LADR repositories.
-
-### Other
-
-%%add shared to YAML when ready to submit%%
