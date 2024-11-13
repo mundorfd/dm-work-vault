@@ -182,7 +182,7 @@ Inventoried and shared article updates with the team from the past two months
 
 ### Sr. ID Responsibilities
 
-- Blog post review, Angelique
+- Reviewed Angelique's blogpost and made suggestions: [Improving the Feedback Cycle blog post 11/24 - Google Docs](https://docs.google.com/document/d/1l0veGVg27y7ykwOcQbu-ID3qRi7DZlcX4FH7r8gi2nY/edit?tab=t.0#heading=h.xcxaiy7s9tff)
 
 ### ID Repositories Refresh
 
