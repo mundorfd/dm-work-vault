@@ -81,7 +81,7 @@ Here's what I have written in the Salesforce Course Record:
 - [Canvas](./Canvas.md)
 - [Syntax Highlighting](Syntax%20Highlighting.md)
 - [Accessibility](./Accessibility.md)
-- [CSS](./CSS.md)
+- [CSS](CSS.md)
 - [CS](CS.md)
 - [UDOIT](UDOIT.md)
 - [LTI](LTI.md)
