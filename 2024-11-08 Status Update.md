@@ -58,8 +58,8 @@ Ami has a first draft of all her module content in [CS_432](https://canvas.orego
 **Content build**
 
 - Built modules 1 & 2 and setup design for future pages
-- Built home page
-
+- Built home page with customized assets (developed banner and numbers based on Warren's button design)
+![emgt595_home.png](./Captains%20Log/Status%20AY%202024-2025/images/emgt595_home.png)
 
 ### S25
 
@@ -96,6 +96,7 @@ Ami has a first draft of all her module content in [CS_432](https://canvas.orego
 #### CS 474 ✓
 
 - Guillermo has completed the first five weeks of the DOC, just waiting for the final project. We are meeting regularly, so far so good.
+- I converted the lab setup documents and fixed several accessibility issues in lab files. Built Lab 1.
 
 #### CS 561 ✓
 
@@ -107,6 +108,7 @@ Ami has a first draft of all her module content in [CS_432](https://canvas.orego
 
 - I have built through week 3.
 - Redesigned home page and buttons
+- Working on differentiated Perusall assignments
 
 #### EMGT 562 ✓
 
