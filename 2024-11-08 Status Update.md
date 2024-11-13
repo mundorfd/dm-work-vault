@@ -182,6 +182,8 @@ Inventoried and shared article updates with the team from the past two months
 
 ### Sr. ID Responsibilities
 
+- Blog post review, Angelique
+
 ### ID Repositories Refresh
 
 - Met with Chris and Ashlee to strategize plans for clarifying mission and cleaning up IDKB, IDD and LADR repositories.
