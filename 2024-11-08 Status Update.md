@@ -43,7 +43,7 @@ Studio site: [CE_535](https://canvas.oregonstate.edu/courses/2006318)
 
 - It's a bit slow… very lengthy modules, see below. I have only completed the first module build, but I have templated the pages in several others, I expect the build to go a little bit quicker now.
 - We are embedding interactive coding activities with a new opensource tool starting in week 3. This may take a bit to build as well.
-![ce535module.png](./Captains%20Log/Status%20AY%202024-2025/images/ce535module.png)
+![[ce535module.png|ce535module.png]]
 
 #### CS 432 ✓
 
@@ -59,7 +59,7 @@ Ami has a first draft of all her module content in [CS_432](https://canvas.orego
 
 - Built modules 1 & 2 and setup design for future pages
 - Built home page with customized assets (developed banner and numbers based on Warren's button design)
-![emgt595_home.png](./Captains%20Log/Status%20AY%202024-2025/images/emgt595_home.png)
+![[emgt595_home.png|emgt595_home.png]]
 
 ### S25
 
