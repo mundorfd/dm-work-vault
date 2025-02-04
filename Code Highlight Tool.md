@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 created: 2024-04-15 14:04
-modified: 2024-10-28T13:17:00-07:00
+modified: 2025-01-30 10:01
 share: true
 title: Code Highlight Tool
 ---
@@ -13,20 +13,20 @@ title: Code Highlight Tool
 
 [Code Highlight](https://www.eduappcenter.com/apps/6199) is a Canvas app that provides syntax highlighting for code snippets used in Canvas. It works with various programming languages, including JavaScript, Python, Java, HTML/CSS, PHP, C/C++, and SQL. The tool allows users to customize the color scheme and formatting of code snippets to match their preferences. Code Highlight is integrated into the Rich Content Editor in Canvas.
 
-![](./Reference/images/code_highlight_2.png)
+![](./images/code_highlight_2.png)
 
 Here are some examples of how the highlighting looks after using the LTI app on a selected code snippet:
 
-![](./Reference/images/code_highlight_1.png)
+![](./images/code_highlight_1.png)
 
 ## Instructions
 
 - [Installation Instructions](https://www.wyelearning.com/support/code-highlight/#installation)
 - [Demo on YouTube](https://youtu.be/cqFcjX3VN8U?si=KxLveauikkM3lvu4)
 
-![](./Reference/images/code_highlight.mp4)
+![](./images/code_highlight.mp4)
 
-![](./Reference/images/code_highlight_3.png)
+![](./images/code_highlight_3.png)
 
 ## Additional Resources
 
@@ -62,13 +62,13 @@ The following themes passed the [accessibility checker integrated into the Canva
 - VS2015
 - Xcode
 - XT256
-![](./Reference/images/code_highlight_3.png)
+![](./images/code_highlight_3.png)
 
 UDOIT flags all the light ones, and here's why: for some reason, it thinks the background is black. It must have something to do with how the CSS is written that throws it off.
 
-![](./Reference/images/code_highlight_5.png)
+![](./images/code_highlight_5.png)
 
-![](./Reference/images/udoit.PNG)
+![](./images/udoit.png)
 
 ### Course Documentation
 
@@ -78,12 +78,13 @@ Here's what I have written in the Salesforce Course Record:
 
 ## Related Ideas
 
-- [Canvas](./Canvas.md)
-- [Syntax Highlighting](Syntax%20Highlighting.md)
-- [Accessibility](./Accessibility.md)
-- [CSS](CSS.md)
-- [CS](CS.md)
-- [UDOIT](UDOIT.md)
-- [LTI](LTI.md)
+- [[Canvas|Canvas]]
+- [[Syntax Highlighting|Syntax Highlighting]]
+- [[Accessibility|Accessibility]]
+- [[CSS|CSS]]
+- [[CS|CS]]
+- [[UDOIT|UDOIT]]
+- [[LTI|LTI]]
 
+- [[Projects OSU/BB 345.md|BB 345]]
 
