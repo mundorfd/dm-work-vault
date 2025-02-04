@@ -74,6 +74,6 @@ Communication should be documented via email and in the Course Design Notes for 
 
 ## Related Ideas
 
-[Salesforce](Salesforce.md)
+[[Salesforce|Salesforce]]
 
 
