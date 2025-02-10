@@ -1,7 +1,7 @@
 ---
 title: EMGT 562 Interactive Quiz User Stories
 created: 2025-02-04 14:02
-modified: 2025-02-04 14:02
+modified: 2025-02-05 9:02
 share: true
 ---
 
@@ -21,6 +21,7 @@ Suggested user stories for the custom web interactive app based on the asana req
    I want the matching items to appear in a randomized order each time I attempt the activity,
    So that I cannot simply memorize positions and must actively engage with the content.
 	- _Related Requirement: Randomization of items for each attempt (Randomization)_
+	- _note from Doug: Re: randomness: the dev version of the app is random but set via a seed, so it produces the same results each time. That'll help us with testing but won't appear to meet that requirement. The prod version then switches to actual random._
 - **As a student**,
    I want an optional text box to explain my reasoning for my matches,
    So that I can justify my answers and earn additional points.
