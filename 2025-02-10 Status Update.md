@@ -30,9 +30,13 @@ share: true
 
 #### CS 474
 
-- Delivered content: Written content has delivered 9 modules and finished recording videos. He had a TA design four labs which he now needs to review.
-- Canvas Build
-![[cs474_page.mp4|cs474_page.mp4]]
+- Delivered content: Written content has delivered nine modules and finished recording videos. He had a TA design four labs, which he now needs to review.
+- Canvas Build: A bit slow, like my other CS courses, this one is very dense. For each one, we are building the learning materials/text book on Exploration Pages. Here's a sample lab, for example.: 
+
+<video src="https://media.oregonstate.edu/id/1_rx54ypf1?width=400&height=285&playerId=44855082" controls></video>
+
+I have built two modules and two labs. 
+
 #### CS 561
 
 - Delivered content
