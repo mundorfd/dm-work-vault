@@ -30,9 +30,9 @@ share: true
 
 #### CS 474
 
-- Delivered content: Written content has delivered 9 modules and finished recording videos. He had a TA design four labs which he now needs to review. 
+- Delivered content: Written content has delivered 9 modules and finished recording videos. He had a TA design four labs which he now needs to review.
 - Canvas Build
-
+![[cs474_page.mp4|cs474_page.mp4]]
 #### CS 561
 
 - Delivered content
