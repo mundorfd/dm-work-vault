@@ -112,9 +112,9 @@ share: true
 ##### Carmin
 
 - Drafted Blog post. Julie will review before sending my way.
+- She continues to collaborate with Julie on a course development project, focusing primarily on Canvas build activities.
 
 ##### Terrence
 
-- Terrence is working with Meghan on a course build, at the point now where they are doing final syllabus adjustments and course checks. 
+- Terrence is working with Meghan on a course build, and they are doing final syllabus adjustments and course checks.
 - Terrence is interested in the process analysis opportunity.
-
